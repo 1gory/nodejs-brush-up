@@ -1,3 +1,3 @@
-- Использование в node.js require или import
+- Использование в node.js CommonJS syntax `require` или `import` syntax ES6 
   - расширение .js при импорте модулей es6
 - Импорт модулей из .node_modules и из модулей проекта.
